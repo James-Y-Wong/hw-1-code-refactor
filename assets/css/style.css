@@ -76,7 +76,8 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* changed main from class to element selector */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
